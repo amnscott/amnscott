@@ -1,5 +1,5 @@
 > ### I’m @amnscott
->   - I began periodic Git/Github self-study skills in 2022
+>   - I began periodic Git/Github self-study in 2022
 >   - My self-study goals are:
 >     - I wish to better support software developers as a Linux sys-admin. Having some Git/Github skills allows better dialog with developers at times.
 >     - I wish to use Git features for sys-admin team purposes, to manage products (e.g. scripts, team documenation...)
