@@ -1,6 +1,7 @@
 > ### I’m @amnscott
->   - Once experiencing and advocating DevSecOps principles within software development environments in 2021, I also became a "Documentation as Code" advocate
->     - Git/GitHub self-study began &mdash; it is interesting and fun
+>   - Work experiences led me to advocate DevSecOps principles within software development environments in 2021
+>     - Continued experiences led to to advocate "Documentation as Code"
+>     - Therefore, Git/GitHub self-study began &mdash; it is interesting and fun
 >     
 >   - I intend to create (am creating) repos containing:
 >     - Technical Writer/Course Developer sample documents
